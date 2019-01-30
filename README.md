@@ -1,6 +1,9 @@
 # Tic-Tac-Toe Game
 Based on [React's tutorial](https://reactjs.org/tutorial/tutorial.html)
 
+## online
+See it here [online](https://carballosa.github.io/tictactoe-react/)
+
 ## setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -28,6 +31,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run deploy`
+
+Deploys a production build of the app to `GitHub Papes`.<br>
+
+Before deploying, open `package.json` and add change the `homepage` field with your GitHub account and repository names:
+
+```sh
+"homepage": "https://myusername.github.io/my-app",
+```
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
