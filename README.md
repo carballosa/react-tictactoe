@@ -36,7 +36,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run deploy`
 
-Deploys a production build of the app to `GitHub Papes`.<br>
+Deploys a production build of the app to `GitHub Pages`.<br>
 
 Before deploying, open `package.json` and add change the `homepage` field with your GitHub account and repository names:
 
