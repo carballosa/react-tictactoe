@@ -38,7 +38,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Deploys a production build of the app to `GitHub pages`.<br>
 
-Before deploying, open `package.json` add change the `homepage` field with your GitHub account and repository names:
+Before deploying, open `package.json` and change the `homepage` field with your GitHub account and repository names:
 
 ```sh
 "homepage": "https://myusername.github.io/my-app",
